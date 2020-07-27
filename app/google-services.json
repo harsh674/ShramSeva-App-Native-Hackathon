@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351835806642",
+    "firebase_url": "https://shram-seva.firebaseio.com",
+    "project_id": "shram-seva",
+    "storage_bucket": "shram-seva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351835806642:android:aceab171354d94a8ba22ab",
+        "android_client_info": {
+          "package_name": "com.learn.kiit.shramseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351835806642-u1n0h3nuljvtou20u1kk724ochdmtjke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoV0kneg4O77JU4j-mP-YMR8yA8h2PAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351835806642-u1n0h3nuljvtou20u1kk724ochdmtjke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
